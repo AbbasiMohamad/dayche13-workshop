@@ -14,3 +14,8 @@ def bye_dayche():
 def peyman():
     return 'Hello from Peyman!'
 
+
+@app.route('/sobhan')
+def sobhan():
+    return 'Hello from Sobhan!'
+
